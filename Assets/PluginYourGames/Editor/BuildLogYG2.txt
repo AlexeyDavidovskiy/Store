@@ -1,3 +1,0 @@
-Build path: D:/Job/Unity/DOTS and ECS/Build
-Build number: 1
-PluginYG version: 2.0032
